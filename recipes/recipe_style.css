@@ -1,0 +1,28 @@
+body{
+	background-color: bisque;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 650px;
+	margin: auto;
+	text-align: center;
+}
+
+li{
+	width: 400px;
+	margin: auto;
+	text-align: left;
+}
+
+.return{
+	text-align: left;
+	margin-left: 30px;
+	border: 1px;
+	width: fit-content;
+	padding: 4px;
+	border-style: dashed;
+}
+
+a{
+	text-decoration: none;
+	color: red;
+	font-weight: bold;
+}
